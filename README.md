@@ -2,6 +2,10 @@
 
 >本仓库旨在收集ICLR最新研究进展，尤其是LLM方面，涉及NLP领域的各个方向，此项目长期不定时更新。
 
+## 相关会议论文合集 / Related Conference Papers
+
+- [**ICML 2025 论文仓库合集**](./ICML2025-Repositories.md) - 收集GitHub上ICML 2025论文的相关仓库
+
 ## 历年ICLR 论文和开源项目合集
 
 - [**ICLR 2024 论文和开源项目合集**](./ICLR2024-Papers-with-Code.md)
